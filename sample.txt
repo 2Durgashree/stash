@@ -1,1 +1,12 @@
-hello
+git stash 
+--command copy 
+
+git stash list 
+-- list of stash
+
+git stash pop
+
+git stash apply
+
+git stash clear
+git stash save "message"'
